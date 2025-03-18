@@ -34,7 +34,7 @@ O código foi estruturado de maneira a aplicar os conceitos de **POO** (encapsul
 
 ## Tecnologias e Ferramentas
 
-- **Linguagem**: Python 3.x
+- **Linguagem**: Python 3.13.1
 - **Paradigma**: Programação Orientada a Objetos (POO)
 - **Imports**:
 - **Imports**:
