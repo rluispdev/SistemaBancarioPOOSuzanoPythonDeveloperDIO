@@ -37,7 +37,6 @@ O código foi estruturado de maneira a aplicar os conceitos de **POO** (encapsul
 - **Linguagem**: Python 3.13.1
 - **Paradigma**: Programação Orientada a Objetos (POO)
 - **Imports**:
-- **Imports**:
   - `import datetime`: Utilizado para controlar as datas e horários das transações, como o registro de depósitos e saques.
   - `import os`: Usado para manipulação de operações do sistema operacional, como limpeza de tela ou verificações de arquivos.
   - `from abc import ABC, abstractmethod`: Usado para criar classes abstratas, permitindo a definição de interfaces e garantindo que as subclasses implementem métodos específicos.
@@ -62,9 +61,8 @@ O código foi estruturado de maneira a aplicar os conceitos de **POO** (encapsul
     https://github.com/rluispdev/SistemaBancarioPOOSuzanoPythonDeveloperDIO
 
 
-
-  2.	Execute o arquivo main.py ou o arquivo que contiver o código principal.
-	3.	Siga as instruções no terminal para realizar depósitos, saques e consultar o extrato.
+2.	Execute o arquivo main.py ou o arquivo que contiver o código principal.
+3.	Siga as instruções no terminal para realizar depósitos, saques e consultar o extrato.
 
 
 ## Instrutor
